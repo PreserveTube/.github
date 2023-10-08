@@ -1,0 +1,1 @@
+Preservetube is an open-source YouTube archiving tool designed to help preserve and protect online videos from being lost due to censorship, copyright takedowns, or other reasons. Our mission is to make it easy for anyone to download and archive their favorite YouTube videos for future generations to enjoy.
